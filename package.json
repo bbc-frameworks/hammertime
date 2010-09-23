@@ -1,5 +1,6 @@
 {
-    "name"        : "hammertime",
-    "version"     : "0.1.0dev",
-    "description" : "load testing tool for web sockets"    
+    "name"         : "hammertime",
+    "version"      : "0.1.0dev",
+    "description"  : "load testing tool for web sockets",
+    "bin"          : { "hammertime" : "./hammertime.js" }
 }
