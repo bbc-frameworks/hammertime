@@ -1,0 +1,6 @@
+[submodule "ext/Socket.IO"]
+	path = ext/Socket.IO
+	url = git://github.com/LearnBoost/Socket.IO.git
+[submodule "ext/node-websocket-client"]
+	path = ext/node-websocket-client
+	url = git://github.com/pgriess/node-websocket-client.git
